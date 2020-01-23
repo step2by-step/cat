@@ -549,12 +549,21 @@ height: 30px;
 }
 
 .p-b {
-    font-weight: 700;
     padding: 19px;
     border-radius: 12px;
     box-shadow: 2px 2px 15px #ccc; 
     background: #ff000003;
     font-size: 1.1em; 
+}
+
+.sk-1 {    
+    
+	border: 2px solid #c76c0c;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px -2px rgba(0,0,0,.1);
+    background: #faebd736;
 }
 
 .p-actung{
